@@ -1,0 +1,11 @@
+Front-End,Python Language,Mobile,Java Language,C# Language,SQL-Database,NoSQL-Databases,Data Engineering,Development
+html,pandas,Swift,java,asp.net,mysql,mongodb,hive,kafka
+css,numpy,Android,spring,.net core,mssql,couchdb,hadoop,elk
+react,python ,Dart,hibernate,entity framework,postgresql,hbase,sql,celery
+vue,matplotlib,Flutter,,linq,ms access,cassandra,spark,logging
+angular,django,,,mssql,oracle,infinite graph,airflow,graphql
+bootstrap,flask,,,windsor castle,sql server,,google big query,dependency injection
+,,,,,,,aws,
+,,,,,,,s3,
+,,,,,,,aws bucket,
+,,,,,,,aws lambda,
